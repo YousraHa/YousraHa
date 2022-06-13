@@ -11,5 +11,3 @@ I'm currently working at Palo IT
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YousraHa&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YousraHa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=YousraHa&icon=0&color=6)](https://visitcount.itsvg.in)
