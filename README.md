@@ -11,7 +11,6 @@ I live in Paris and I'm currently working at Palo IT as a junior web developer (
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YousraHa&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YousraHa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
